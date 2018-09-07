@@ -24,9 +24,7 @@ function a() {
 window.a();
 ```
 
-和上面代码一样，其实alert也是window的一个属性，也是window点出来的。
-
-eg2:
+ eg2:
 
 ```
 var o = {
